@@ -1,0 +1,10 @@
+Start
+Print("Enter any two numbers")
+Read num1,num2
+Print("Enter the operator)
+Read operator
+if operator == "+"
+  Print(num1+num2)
+else if operator == "-"
+  Print(num1-num2)
+End
