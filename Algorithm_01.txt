@@ -1,0 +1,13 @@
+Start
+Ask the user to enter num
+Set the value of n = num
+if num % n == 0
+ Print(n)
+if n % 2 == 0
+ Print("It is even number")
+else 
+ Print("It is odd number")
+n--
+Repeat Step 4
+Until n == 0
+End
