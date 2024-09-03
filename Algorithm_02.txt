@@ -1,0 +1,28 @@
+Start
+Ask user to enter num < 12 and num >0
+If user enter 1
+ Print("January")
+else if user enter 2
+ Print("February")
+else if user enter 3
+ Print("March")
+else if user enter 4
+ Print("April")
+else if user enter 5
+ Print("May")
+else if user enter 6
+ Print("June")
+else if user enter 7
+ Print("July")
+else if user enter 8
+ Print("August")
+else if user enter 9
+ Print("September")
+else if user enter 10
+ Print("October")
+else if user enter 11
+ Print("November")
+else if user 12
+ Print("December")
+End
+
