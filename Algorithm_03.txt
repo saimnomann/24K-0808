@@ -1,0 +1,14 @@
+Start
+Ask user to enter num1,num2
+Ask user to select operation (+,-,*,/,%)
+if user select "+"
+  Print(num1+num2)
+else if user select "-"
+  Print(num1-num2)
+else if user select "*"
+  Print(num1*num2)
+else if user select "/"
+  Print(num1/num2)
+else if user select "%"
+  Print(num1%num2)
+End
